@@ -35,6 +35,12 @@ Field officers and authorities can upload **Resolution Proof** (Work Pics). Citi
 
 ---
 
+Landing Page:
+
+
+<img width="1900" height="805" alt="image" src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" />
+
+
 ## 🚀 Quick Start (Local Setup)
 
 ### 1. Prerequisites
