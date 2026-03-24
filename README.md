@@ -40,10 +40,27 @@ Field officers and authorities can upload **Resolution Proof** (Work Pics). Citi
 
 ---
 
-Landing Page:
+## Landing Page:
 
 
 <img width="1900" height="805" alt="image" src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" />
+
+## Flow of our Demo:
+
+<img width="1634" height="197" alt="Screenshot 2026-03-24 231559" src="https://github.com/user-attachments/assets/7c63a11d-8275-4996-95fc-814168fdab88" />
+
+## Live area of Problem :
+
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/482a3a62-5348-4377-aa66-01b96fe56418" />
+
+## Email Received Using SMTP :
+
+<img width="1167" height="161" alt="image" src="https://github.com/user-attachments/assets/b1ebc74e-baaa-4fa4-8578-4f88ac547afc" />
+
+## Leagal Complaint Letter from our WebApp User -> Corporate -> High Authority -> Non-profit NGO's
+
+<img width="676" height="833" alt="Screenshot 2026-03-24 231445" src="https://github.com/user-attachments/assets/e0154720-4dab-4e38-90e6-17b3a38f68f7" />
+
 
 
 ## 🚀 Quick Start (Local Setup)
