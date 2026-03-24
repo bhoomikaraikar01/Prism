@@ -6,6 +6,7 @@ CivicPulse is a high-speed, mobile-first community platform designed to bridge t
 ---
 🌐 Live Deployment
 🔗 Frontend (Vercel): https://prism-brown-theta.vercel.app/
+
 🔗 Backend (Render): https://prism-6lwx.onrender.com
 
 ## 🏆 Innovation Highlights
