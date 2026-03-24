@@ -7,7 +7,7 @@ exports.logUsage = async (req, res) => {
   try {
     const { household_id, ward_id, liters_used, limit_liters, contact_email } = req.body;
     const recorded_date = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
-
+ 
     let usage = await WaterUsage.findOne({ household_id, recorded_date });
 
     if (usage) {
