@@ -4,6 +4,9 @@
 CivicPulse is a high-speed, mobile-first community platform designed to bridge the gap between citizens and authorities. Built for the Hubli-Dharwad pilot, it leverages AI categorization, an immutable ledger, and automated legal escalation to ensure every civic concern is addressed with transparency and urgency.
 
 ---
+🌐 Live Deployment
+🔗 Frontend (Vercel): https://prism-brown-theta.vercel.app/
+🔗 Backend (Render): https://prism-6lwx.onrender.com
 
 ## 🏆 Innovation Highlights
 
