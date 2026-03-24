@@ -61,6 +61,9 @@ Field officers and authorities can upload **Resolution Proof** (Work Pics). Citi
 
 <img width="676" height="833" alt="Screenshot 2026-03-24 231445" src="https://github.com/user-attachments/assets/e0154720-4dab-4e38-90e6-17b3a38f68f7" />
 
+## AI Suggestion for Category:
+
+<img width="746" height="533" alt="Screenshot 2026-03-24 231713" src="https://github.com/user-attachments/assets/a78a7a19-0cd7-4197-9d7c-707e6407f810" />
 
 
 ## 🚀 Quick Start (Local Setup)
