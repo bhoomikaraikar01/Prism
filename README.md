@@ -4,11 +4,12 @@
 CivicPulse is a high-speed, mobile-first community platform designed to bridge the gap between citizens and authorities. Built for the Hubli-Dharwad pilot, it leverages AI categorization, an immutable ledger, and automated legal escalation to ensure every civic concern is addressed with transparency and urgency.
 
 ---
-🌐 Live Deployment
 
-🔗 Frontend (Vercel): https://prism-brown-theta.vercel.app/
+## 🌐 Live Deployment
+- **Frontend (Vercel)**: [https://prism-brown-theta.vercel.app/](https://prism-brown-theta.vercel.app/)
+- **Backend (Render)**: [https://prism-6lwx.onrender.com](https://prism-6lwx.onrender.com)
 
-🔗 Backend (Render): https://prism-6lwx.onrender.com
+---
 
 ## 🏆 Innovation Highlights
 
@@ -30,50 +31,56 @@ Field officers and authorities can upload **Resolution Proof** (Work Pics). Citi
 
 ---
 
-## 🛠️ Technology Stack
+## 🖼️ Project Walkthrough
 
-- **Frontend**: React 18, Vite, Framer Motion (for premium animations), Tailwind CSS.
+### 🏠 Landing Page & Dashboard
+<img src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" width="100%" alt="Landing Page" />
+
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/02993061-906a-4aa9-bca5-66b465d5a45b" width="100%" alt="PublicAssembly 1" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/09bd814c-2381-4573-8119-c4806d64d770" width="100%" alt="PublicAssembly 2" /></td>
+  </tr>
+</table>
+
+### 🔄 Demo Flow & Mobile View
+<img src="https://github.com/user-attachments/assets/7c63a11d-8275-4996-95fc-814168fdab88" width="100%" alt="Demo Flow" />
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/61741298-63a5-4d22-8cd7-33f09cc96981" width="500px" alt="Mobile Flow" />
+</div>
+
+### 📍 Problem Tracking & Accountability
+**Live Area of Problem Tracking:**
+<img src="https://github.com/user-attachments/assets/482a3a62-5348-4377-aa66-01b96fe56418" width="100%" alt="Problem Tracker" />
+
+**SMTP Email Escalation System:**
+<table width="100%">
+  <tr>
+    <td width="60%"><img src="https://github.com/user-attachments/assets/b1ebc74e-baaa-4fa4-8578-4f88ac547afc" width="100%" alt="Email List" /></td>
+    <td width="40%"><img src="https://github.com/user-attachments/assets/f02f0647-c8b4-4059-934a-8a9768c64318" width="100%" alt="Mobile Email Notification" /></td>
+  </tr>
+</table>
+
+### ⚖️ Automated Legal Action & AI
+**Legal Complaint Letter & AI Categorization Engine:**
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/e0154720-4dab-4e38-90e6-17b3a38f68f7" width="100%" alt="Legal Document" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/a78a7a19-0cd7-4197-9d7c-707e6407f810" width="100%" alt="AI Suggestion" /></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+- **Frontend**: React 18, Vite, Framer Motion, Tailwind CSS.
 - **Backend**: Node.js, Express.
 - **Database**: MongoDB Atlas (Cloud Database).
 - **Automation**: `node-cron` (Escalation Engine), `pdfkit` (Legal Documents), `nodemailer` (SMTP Notification).
 - **Authentication**: JWT-based Secure Login + Google OAuth Support.
 
 ---
-
-## Landing Page:
-
-
-<img width="1900" height="805" alt="image" src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" /> 
-
-## Landing Page of PublicAssembly:
-
-<img width="836" height="777" alt="image" src="https://github.com/user-attachments/assets/02993061-906a-4aa9-bca5-66b465d5a45b" />
-
-
-## Flow of our Demo:
-
-<img width="1634" height="197" alt="Screenshot 2026-03-24 231559" src="https://github.com/user-attachments/assets/7c63a11d-8275-4996-95fc-814168fdab88" />  <img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/09bd814c-2381-4573-8119-c4806d64d770" />
-
-<img width="858" height="706" alt="image" src="https://github.com/user-attachments/assets/61741298-63a5-4d22-8cd7-33f09cc96981" />
-
-
-
-## Live area of Problem :
-
-<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/482a3a62-5348-4377-aa66-01b96fe56418" />
-
-## Email Received Using SMTP :
-
-<img width="1167" height="161" alt="image" src="https://github.com/user-attachments/assets/b1ebc74e-baaa-4fa4-8578-4f88ac547afc" />
-
-## Leagal Complaint Letter from our WebApp User -> Corporate -> High Authority -> Non-profit NGO's
-
-<img width="676" height="833" alt="Screenshot 2026-03-24 231445" src="https://github.com/user-attachments/assets/e0154720-4dab-4e38-90e6-17b3a38f68f7" />
-
-## AI Suggestion for Category:
-
-<img width="746" height="533" alt="Screenshot 2026-03-24 231713" src="https://github.com/user-attachments/assets/a78a7a19-0cd7-4197-9d7c-707e6407f810" />
-
 
 ## 🚀 Quick Start (Local Setup)
 
