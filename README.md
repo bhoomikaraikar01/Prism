@@ -43,11 +43,20 @@ Field officers and authorities can upload **Resolution Proof** (Work Pics). Citi
 ## Landing Page:
 
 
-<img width="1900" height="805" alt="image" src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" />
+<img width="1900" height="805" alt="image" src="https://github.com/user-attachments/assets/0e0fa015-c83f-4f83-a3d1-209d5ae4f4d7" /> 
+
+## Landing Page of PublicAssembly:
+
+<img width="836" height="777" alt="image" src="https://github.com/user-attachments/assets/02993061-906a-4aa9-bca5-66b465d5a45b" />
+
 
 ## Flow of our Demo:
 
-<img width="1634" height="197" alt="Screenshot 2026-03-24 231559" src="https://github.com/user-attachments/assets/7c63a11d-8275-4996-95fc-814168fdab88" />
+<img width="1634" height="197" alt="Screenshot 2026-03-24 231559" src="https://github.com/user-attachments/assets/7c63a11d-8275-4996-95fc-814168fdab88" />  <img width="1600" height="686" alt="image" src="https://github.com/user-attachments/assets/09bd814c-2381-4573-8119-c4806d64d770" />
+
+<img width="858" height="706" alt="image" src="https://github.com/user-attachments/assets/61741298-63a5-4d22-8cd7-33f09cc96981" />
+
+
 
 ## Live area of Problem :
 
